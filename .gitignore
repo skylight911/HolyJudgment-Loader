@@ -1,0 +1,8 @@
+loader-source.lua
+BUILD_LOADER.cmd
+build-loader.log
+*.log
+/INIT_PUBLIC_LOADER_REPO.cmd
+/loader-status.txt
+/loader-files.txt
+/loader-commit.txt
