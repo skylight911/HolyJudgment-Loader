@@ -1,4 +1,4 @@
-loader-source.lua
+loader-source.lua*
 BUILD_LOADER.cmd
 build-loader.log
 *.log
