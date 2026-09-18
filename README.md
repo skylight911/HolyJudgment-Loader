@@ -1,0 +1,1 @@
+# Holy Judgment Loader\n\nPublic bootstrap for the Holy Judgment script hub. Protected product scripts are never stored in this repository; they remain in Cloudflare Workers KV behind the Holy Judgment license API.\n
